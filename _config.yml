@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changyu Wang / 王昌钰"
+title                    : "Changyu Wang / 王"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
